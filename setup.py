@@ -4,7 +4,7 @@ setup(
     name='test_framework',
     version='0.1.0',
     description='BDD-Testframework mit Page Object Pattern und Keyword-Layer',
-    author='Dein Name',
+    author='sija',
     packages=find_packages(),
     install_requires=[
         'behave',

@@ -1,4 +1,4 @@
-from pages.login_page import LoginPage
+from test_framework.pages.login_page import LoginPage
 
 def open_login_page(driver):
     page = LoginPage(driver)
